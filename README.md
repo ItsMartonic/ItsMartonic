@@ -12,5 +12,4 @@ I'm an aspiring content creator & tech enthusiast. I post gaming videos and woul
 
 ## 📊 GitHub Statistics
 
-
 [![Martonic's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ItsMartonic&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
