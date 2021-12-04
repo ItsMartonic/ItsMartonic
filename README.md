@@ -15,4 +15,4 @@ I'm an aspiring content creator & tech enthusiast. I post gaming videos and woul
 
 [![Martonic's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ItsMartonic&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Martonic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMartonictheme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Martonic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMartonic&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
