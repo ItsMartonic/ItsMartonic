@@ -2,12 +2,9 @@
 
 I'm an aspiring content creator & tech enthusiast. I post gaming videos and would like to provide quality entertainment for people.
 
-## 🌴 Personal Website
-
-- [Website](https://itsmartonic.github.io/Website/)
-
 ## 📋 Important Links
 
+- [Website](https://itsmartonic.github.io/Website/)
 - [YouTube](https://www.youtube.com/channel/UCSu3KBw1aWSYearxD7l_ZjQ)
 - [Twitter](https://twitter.com/ItsMartonic)
 - [Instagram](https://www.instagram.com/itsmartonic/?hl=en)
