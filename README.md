@@ -1,3 +1,3 @@
-# Profile
+## Hello! I'm Martonic
 
-Text Goes Here
+[![YouTube](https://www.youtube.com/channel/UCSu3KBw1aWSYearxD7l_ZjQ)](Martonic)
