@@ -1,7 +1,3 @@
-## ✨ Introduction
-
-Hey there! 👋 I'm Martonic, a gaming content creator from Australia. I make videos about Call Of Duty and other first person shooters.
-
 ## 📋 Important Links
 
 - [YouTube](https://www.youtube.com/Martonic)
