@@ -1,4 +1,4 @@
-## 🙋‍♂️ Welcome To My Profile
+## 🙋‍♂️ Welcome To My GitHub Profile
 
 I'm Martonic and I make videos on the internet.
 
