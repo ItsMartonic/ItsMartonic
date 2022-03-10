@@ -1,6 +1,6 @@
-## 🙋‍♂️ Welcome To My GitHub Profile
+## 🙋‍♂️ Introduction
 
-I'm Martonic and I make videos on the internet.
+Hello! I'm Martonic and I make videos on the internet.
 
 ## 📋 Important Links
 
