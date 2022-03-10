@@ -4,10 +4,10 @@ I'm Martonic and I make videos on the internet.
 
 ## 📋 Important Links
 
-- [YouTube](https://www.youtube.com/Martonic)
-- [Discord](https://discord.gg/R5nzBEmv8d)
-- [Twitter](https://twitter.com/ItsMartonic)
-- [Instagram](https://www.instagram.com/itsmartonic/?hl=en)
+[YouTube](https://www.youtube.com/Martonic)
+[Discord](https://discord.gg/R5nzBEmv8d)
+[Twitter](https://twitter.com/ItsMartonic)
+[Instagram](https://www.instagram.com/itsmartonic/?hl=en)
 
 ## 📊 GitHub Statistics
 
