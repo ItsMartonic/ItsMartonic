@@ -1,12 +1,14 @@
+<a href="https://github.com/ItsMartonic">
+    <img src="Header.png">
+</a>
+
 <h1 align="center">
     <b>🙋‍♂️ Introduction</b>
 </h1>
 
-
 <p align="center">
-    Hello!
+    Hello there! I'm Martonic and I make videos on the internet.
 </p>
-
 
 <p align="center">
     <a href="https://www.youtube.com/Martonic"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
@@ -16,8 +18,10 @@
 </p>
 
 <h1 align="center">
-    <b>Text</b>
+    <b>📊 GitHub Statistics</b>
 </h1>
+
+
 
 <h1 align="center">
     <b>Text</b>
@@ -27,17 +31,6 @@
 
 
 
-
-
-
-<h1 align="center"><u>🙋‍♂️ Introduction</u></h2>
-
-<h1 align="center"><u>🔗 Important Links</u></h2>
-
-- [YouTube](https://www.youtube.com/Martonic)
-- [Discord](https://discord.gg/R5nzBEmv8d)
-- [Twitter](https://twitter.com/ItsMartonic)
-- [Instagram](https://www.instagram.com/itsmartonic/?hl=en)
 
 <h1 align="center"><u>📊 GitHub Statistics</u></h2>
 
