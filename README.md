@@ -1,7 +1,3 @@
-<a href="https://github.com/ItsMartonic">
-    <img src="Header.png">
-</a>
-
 <h1 align="center">
     <b>🙋‍♂️ Introduction</b>
 </h1>
