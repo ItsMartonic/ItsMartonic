@@ -19,9 +19,9 @@
 
 <p align="center">
     <a href="https://github.com/AVS1508">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsMartonic&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ItsMartonic&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     <br>
     <br>
-    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMartonic&theme=github_dark"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMartonic&layout=compact&theme=github_dark"/>
     </a>
 </p>
