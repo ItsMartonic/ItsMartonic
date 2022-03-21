@@ -9,7 +9,7 @@
 
 <h1 align="center"><u>📊 GitHub Statistics</u></h2>
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/ItsMartonic">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ItsMartonic&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     <br>
