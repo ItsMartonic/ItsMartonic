@@ -9,11 +9,11 @@
 
 
 <h1 align="center"><u>📊 GitHub Statistics</u></h2>
-<p align="center">
+<p align="left">
 <a href="https://github.com/ItsMartonic">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsMartonic&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <br>
-  <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMartonic&layout=compact&theme=github_dark"/>
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ItsMartonic&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<br>
+<br>
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMartonic&layout=compact&theme=github_dark"/>
 </a>
 </p>
