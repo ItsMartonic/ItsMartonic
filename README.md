@@ -12,20 +12,3 @@
     <a href="https://twitter.com/itsmartonic"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://www.instagram.com/itsmartonic"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
-
-<h1 align="center">
-    <b>📊 GitHub Statistics</b>
-</h1>
-
-<p align="center">
-    I'm not very active on GitHub!
-</p>
-
-<p align="center">
-    <a href="https://github.com/AVS1508">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ItsMartonic&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <br>
-    <br>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMartonic&layout=compact&theme=github_dark"/>
-    </a>
-</p>
