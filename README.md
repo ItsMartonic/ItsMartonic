@@ -16,8 +16,7 @@
 </p>
 
 
-### 📊 GitHub Statistics
-
+<h1 align="center"><u>📊 GitHub Statistics</u></h2>
 <p align="center">
 <a href="https://github.com/ItsMartonic">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ItsMartonic&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
