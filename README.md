@@ -5,7 +5,14 @@
 
 # 📊 GitHub Statistics
 
-[![Martonic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsMartonic)](https://github.com/ItsMartonic/github-readme-stats)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ItsMartonic&show_icons=true&theme=github_dark"><img src="https://github-readme-streak-stats.herokuapp.com?user=ItsMartonic&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMartonic&layout=compact&theme=github_dark">
+
+<p align="center">
+<img src="https://intense-river-40395.herokuapp.com/graph?username=ItsMartonic&theme=react-dark&custom_title=My%20Profile%20Contribution%20Graph&hide_border=true&color=00d668&line=00d668&point=8b007e">
 
 ---
 ---
