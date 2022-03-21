@@ -3,7 +3,7 @@
 
 # About Me
 
-<h2 align="center"><u>📊 GitHub Statistics</u></h2>
+<h1 align="center"><u>📊 GitHub Statistics</u></h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ItsMartonic&show_icons=true&theme=github_dark">
 <br>
