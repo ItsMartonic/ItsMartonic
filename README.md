@@ -1,6 +1,17 @@
 # Hello There! I'm Martonic 🙋‍♂️
 
 
+# About Me
+
+# 📊 GitHub Statistics
+
+
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMartonic&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb
+
+https://github-readme-stats.vercel.app/api?username=ItsMartonic&count_private=true&show_icons=trueline_height=21&theme=github_dark
+
+
 ---
 ---
 ---
