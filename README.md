@@ -18,7 +18,7 @@
 </p>
 
 <div align="center">
-  <a href="https://open.spotify.com/track/17Li4ZicsYYVuh0ECDLxUv">
+  <a href="https://open.spotify.com/track/17Li4ZicsYYVuh0ECDLxUv?si=830f4738d14f4d00">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
