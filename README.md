@@ -13,9 +13,7 @@
     <a href="https://www.instagram.com/itsmartonic"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<h1 align="center">
-    <b>📊 GitHub Statistics</b>
-</h1>
+
 
 <p align="center">
     <a href="https://github.com/AVS1508">
