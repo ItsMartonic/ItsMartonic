@@ -17,34 +17,13 @@
     <a href="https://www.instagram.com/itsmartonic"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<div align="center">
-  <a href="https://open.spotify.com/track/17Li4ZicsYYVuh0ECDLxUv?si=830f4738d14f4d00">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
 <h1 align="center">
     <b>📊 GitHub Statistics</b>
 </h1>
 
-
-
-<h1 align="center">
-    <b>Text</b>
-</h1>
-
----
-
-
-
-
-<h1 align="center"><u>📊 GitHub Statistics</u></h2>
-
 <p align="center">
-<a href="https://github.com/ItsMartonic">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ItsMartonic&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <br>
-    <br>
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMartonic&layout=compact&theme=github_dark"/>
+    <a href="https://github.com/AVS1508">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsMartonic&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMartonic&layout=compact&theme=github_dark"/>
     </a>
 </p>
