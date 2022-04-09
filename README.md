@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    Hello there! I'm Martonic and I make videos on the internet.
+    Hello! I'm Martonic. I make videos about first person shooters.
 </p>
 
 <p align="center">
