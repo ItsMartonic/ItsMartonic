@@ -1,9 +1,9 @@
 <h1 align="center">
-    <b>🙋‍♂️ Introduction</b>
+    <b>Martonic</b>
 </h1>
 
 <p align="center">
-    Hello! I'm Martonic. I make videos about first person shooters.
+    Gaming Content Creator
 </p>
 
 <p align="center">
