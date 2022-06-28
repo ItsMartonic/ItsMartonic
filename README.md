@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://github.com/ItsMartonic">Martonic</a>
+    Hey, I'm Martonic 👋
 </h1>
 
 <p align="center">
@@ -9,4 +9,8 @@
     <a href="https://www.facebook.com/ItsMartonic"><img src="https://img.shields.io/badge/Facebook-800080?style=for-the-badge&logo=facebook&logoColor=white"/></a>
     <a href="https://www.tiktok.com/@itsmartonic"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
     <a href="https://discord.gg/R5nzBEmv8d"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
+
+<p align="center">
+    I'm currently 
 </p>
