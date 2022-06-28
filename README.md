@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-    I'm currently 
+    Gaming Content Creator
 </p>
